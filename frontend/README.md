@@ -18,6 +18,11 @@ node server.js
 ### Frontend
 Open frontend/index.html
 
+## Note:
+- Currently it is not using AI to detect Fake Review.
+- Soon, it will get converted into React JS.
+- It will be build as an Extension in future.
+
 ## Example
 Input: Win money now! Click link  
 Output: Fake/Scam ❌
