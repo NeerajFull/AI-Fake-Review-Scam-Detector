@@ -28,7 +28,7 @@ EOF
 ![UI](screenshots/ui.png)
 
 ### Backend Running
-![Backend](screenshots/backend.png)
+![Backend](screenshots/Backend.png)
 
 ### Folder Structure
 ![Structure](screenshots/structure.png)
