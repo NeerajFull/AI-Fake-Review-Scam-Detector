@@ -1,4 +1,3 @@
-
 # AI Fake Review & Scam Detector
 
 ## Description
